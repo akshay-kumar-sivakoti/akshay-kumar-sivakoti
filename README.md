@@ -20,7 +20,7 @@ I'm a Android Developer & Operating System Constructor & I also know about Data 
 
 - 💬 Ask me about **(Android & Operating System & Artificial Intelligence & Data Science & Data Structures)**
 
-- 📫 How to reach me **akshay14042005@gmail.com**
+- 📫 How to reach me **akshay14042005@gmail.com** & https://www.linkedin.com/in/akshay-kumar-sivakoti-a00419299/
 
 - ⚡ Fun fact **I am Funny With Me You Will Never Get Bored or Depressed**
 
