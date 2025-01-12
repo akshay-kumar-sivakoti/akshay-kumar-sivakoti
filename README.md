@@ -1,7 +1,7 @@
 <img align="centre" alt="Coding" width="1200" src="https://camo.githubusercontent.com/3b36acef17b4609173b8168bc873ba4cde444299f6c8ff291661430cd8384cd3/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966">
 
 <h1 align="center">Hi 👋, I'm AKSHAY KUMAR SIVAKOTI</h1>
-<h3 align="center">A passionate frontend developer from India and I'm a Software Developer Too.
+<h3 align="center">A passionate FullStack developer from India and I'm a Software Developer Too.
 I'm a Android Developer & Operating System Constructor & I also know about Data Structure </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
